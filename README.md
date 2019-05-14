@@ -2,7 +2,9 @@
 
 Proposta de **C**ódigo **L**ocalizador de **P**ortão: recomendações, estudos de viabilidade e consulta pública.
 
-Ver [Páginas do projeto](http://www.openstreetmap.com.br/CLP/site/) para maiores detalhes.
+**DE MUDANÇA PARA http://github.com/osm-codes**
+
+Ver http://osm.codes/CLP para maiores detalhes.
 
 ------
 
